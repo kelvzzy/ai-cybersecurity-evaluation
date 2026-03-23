@@ -4,7 +4,11 @@
 What should a company do immediately after a ransomware attack?
 
 ## AI Response
-[Paste AI response here]
+When a company experiences a ransomware attack, it should first identify and isolate the affected systems to prevent the malware from spreading further. Disconnect infected devices from the network and disable shared drives if necessary. The organization should then assess the scope of the attack and determine which systems and data have been impacted.
+
+Next, the company should notify its internal IT and security teams, and if necessary, engage external cybersecurity experts to assist in handling the situation. It is important to begin recovery efforts by restoring systems from clean backups if available.
+
+The company should also report the incident to relevant authorities and stakeholders, depending on legal and regulatory requirements. After recovery, the organization should investigate how the attack occurred and take steps to strengthen its security posture to prevent future incidents.
 
 ## Evaluation
 
