@@ -1,5 +1,8 @@
 # Zero Trust Security – AI Evaluation
 
+## Analyst: Kelvin Uche  
+## Role: Cybersecurity & AI Evaluation Specialist  
+
 ## Prompt
 Explain Zero Trust security model
 
