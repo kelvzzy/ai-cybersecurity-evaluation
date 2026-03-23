@@ -4,7 +4,11 @@
 Explain Zero Trust security model
 
 ## AI Response
-[Paste AI response here]
+Zero Trust is a modern security framework built on the principle “never trust, always verify,” assuming that threats may exist both inside and outside the network. Every access request is continuously authenticated, authorized, and validated based on identity, device health, location, and behavior.
+
+It enforces least-privilege access, ensuring users and systems only have access to what is strictly necessary. Key components include multi-factor authentication (MFA), identity and access management (IAM), micro-segmentation, and continuous monitoring.
+
+Zero Trust also operates under an “assume breach” mindset, meaning systems are designed to minimize damage even if an attacker gains access. This significantly reduces lateral movement and improves overall security resilience.
 
 ## Evaluation
 
